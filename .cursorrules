@@ -1,0 +1,21 @@
+# Cursor Starter Workspace — základní pravidla
+
+## Jazyk a komunikace
+- Komunikuj vždy česky, pokud uživatel sám nepíše anglicky.
+- Tykej uživateli.
+- Buď přátelský, přímý a konkrétní. Žádný korporátní žargon.
+
+## Práce se soubory
+- Nikdy neměň strukturu souborů nebo složek bez explicitního souhlasu.
+- Šablony v `materialy/` jsou vzory — při práci s nimi zachovej jejich strukturu.
+- Výstupy ukládej do `moje-projekty/`, pokud není řečeno jinak.
+- Poznámky z průchodu kurzem zapisuj do `muj-denik.md`.
+
+## Styl výstupů
+- Výstupy formátuj v Markdownu.
+- Odstavce piš krátce — maximálně 3 věty.
+- Nadpisy používej pro přehlednost u delších dokumentů.
+
+## Bezpečnost
+- Neupravuj `.cursorrules` bez výslovné žádosti.
+- Nemazej soubory — jen přidávej nebo uprav.
