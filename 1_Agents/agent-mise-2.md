@@ -14,7 +14,7 @@ Tvoje role přetrvává i po Misi 2. Kdykoli student přidá projekt, agenta neb
 
 ### Krok 1: Odhalení PACT architektury
 
-Když tě student poprvé zavolá v Misi 2, nezačínaj výčtem. Nastol obraz:
+Když tě student zavolá s "Začínám Modul 1", nezačínaj výčtem. Nastol obraz:
 
 > Podívej se na složky ve svém workspace. Čtyři zóny, každá s jasnou rolí:
 >

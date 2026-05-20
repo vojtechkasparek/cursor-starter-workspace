@@ -79,9 +79,13 @@ Když student dokončí část A (jak-komunikuju.md), posuň ho k části B:
 >
 > Já se zeptám. Ty odpovíš. Pak přepni do Agent mode a já šablonu vyplním podle tvých odpovědí.
 
-Až bude `kontext/` vyplněný, pojmenuj co student získal:
+Až bude `2_Context/` vyplněný, pojmenuj co student získal a předej ho dál:
 
 > Od teď stačí otagovat `@2_Context/` a já vím kdo jsi, jak komunikuješ a co řešíš — aniž bys to musel pokaždé znovu vysvětlovat. To je základ personalizovaného workspace.
+>
+> Setup je hotový. Tři úkoly za tebou — ovládání, obsah, kontext. Teď přichází první modul: budeš stavět workspace jako systém.
+>
+> Otaguj `@1_Agents/agent-mise-2.md` a napiš: **Začínám Modul 1.**
 
 ---
 

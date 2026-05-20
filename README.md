@@ -26,7 +26,7 @@ Výsledek: místo holého textu uvidíš v chatu "tag" (barevný štítek se jm�
 
 ---
 
-## Mise 1: První průzkum
+## Úkol 1: První průzkum
 
 Teď když umíš tagovat, tady je první mise.
 
@@ -39,11 +39,11 @@ Otevři chat a postav zprávu takhle:
 
 Výsledek: agent přečetl konkrétní soubor z tvého workspace — ne internet, ne vymyšlená data. Tohle je základ všeho, co v kurzu přijde.
 
-**Bonusová mise:** Přetáhni vlastní soubor do složky `materialy/` a zopakuj totéž. Výsledek bude jiný — a relevantnější.
+**Bonusový úkol:** Přetáhni vlastní soubor do složky `materialy/` a zopakuj totéž. Výsledek bude jiný — a relevantnější.
 
 ---
 
-## Mise 2: Tvoje palivo
+## Úkol 2: Tvoje palivo
 
 Cursor nepracuje s cloudem ani internetem. Čte soubory přímo z tvého počítače — z té složky, kterou máš otevřenou. Přidáš soubor do `materialy/` a Cursor ho hned vidí. Tak jednoduché.
 
@@ -65,7 +65,7 @@ Chceš víc o tom proč `.md` a jak konvertovat? Otaguj `@materialy/proc-markdow
 
 ---
 
-## Mise 3: Tvůj kontext
+## Úkol 3: Tvůj kontext
 
 Zatím jsi Cursoru ukazoval soubory. Teď mu řekneš co má udělat — a on to udělá.
 
@@ -79,7 +79,7 @@ Kaskáda, která to spojuje: **Plan → Agent**. Nejdřív plán, pak akce.
 
 V levém panelu najdeš připravenou složku `2_Context/`. Je tam struktura a šablony čekající na vyplnění — čtyři soubory s placeholdery `[DOPLNIT]`. Tvůj úkol: naplnit je s pomocí Cursoru.
 
-**Mise — část A: tone of voice**
+**Úkol — část A: tone of voice**
 
 1. Přepni do **Plan mode** — přepínač vlevo dole v chatu.
 2. Otaguj tyto soubory a napiš instrukci:
@@ -90,7 +90,7 @@ V levém panelu najdeš připravenou složku `2_Context/`. Je tam struktura a š
 3. Cursor ukáže plán — zkontroluj co chystá.
 4. Schváliš → přepni do **Agent mode** → soubor se vyplní.
 
-**Mise — část B: kdo jsem**
+**Úkol — část B: kdo jsem**
 
 Po části A otaguj `@2_Context/identity/o-mne.md` a napiš:
 *Přečti šablonu a polož mi 3–5 otázek, abych ji mohl vyplnit.*
@@ -98,6 +98,20 @@ Po části A otaguj `@2_Context/identity/o-mne.md` a napiš:
 Cursor se zeptá. Ty odpovíš. Pak přepni do Agent mode a Cursor šablonu vyplní podle tvých odpovědí.
 
 Výsledek: složka `2_Context/` s tvými reálnými daty. Příště stačí otagovat `@2_Context/` a Cursor ví kdo jsi, jak komunikuješ a co řešíš — aniž bys to musel pokaždé vysvětlovat znovu.
+
+---
+
+## Co dál — Modul 1: Práce s Workspace
+
+Setup máš za sebou. Workspace funguje, kontext je vyplněný, agenta znáš.
+
+Teď přichází první skutečný modul — a s ním nový průvodce.
+
+Otevři chat, otaguj `@1_Agents/agent-mise-2.md` a napiš:
+
+> `Začínám Modul 1.`
+
+Agent tě převezme a provede tím, co přijde dál.
 
 ---
 
