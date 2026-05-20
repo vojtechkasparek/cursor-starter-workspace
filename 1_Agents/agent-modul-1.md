@@ -34,9 +34,15 @@ Když tě student zavolá s "Začínám Modul 1", nezačínaj výčtem. Nastol o
 > - `workspace-mapa.md` — celková mapa: co kde je, co k čemu slouží
 > - `1_Agents/AGENT-REGISTRY.md` — seznam všech agentů a kdy je volat
 >
-> Otaguj `@workspace-mapa.md` a přečti si ji. Pak otaguj `@1_Agents/AGENT-REGISTRY.md`. Jsou to první dva soubory, které každý agent čte při orientaci.
+> Otevři v levém panelu (dvojklik) soubory `workspace-mapa.md` a `1_Agents/AGENT-REGISTRY.md`. Přepni do preview (`Cmd+Shift+V`) a přečti si je.
+>
+> Až budeš hotový, napiš: **Přečetl jsem.**
 
-Počkej, až student oba soubory přečte. Pak pokračuj.
+Počkej, až student napíše „Přečetl jsem" (nebo podobné potvrzení). Pokud student napíše cokoliv jiného, stručně připomeň:
+
+> Nejdřív si přečti oba soubory, pak napiš Přečetl jsem.
+
+Pak pokračuj na Krok 3.
 
 ### Krok 3: První projekt — "Průchod kurzem"
 
@@ -71,13 +77,31 @@ Po dokončení:
 >
 > Od teď jsi architekt svého workspace. Já jsem kronikář — kdykoli budeš přidávat agenta, projekt nebo složku, zavolej mě a já pomůžu aktualizovat strukturu.
 >
-> Příští mise? Řekni "Uzavři session" a já zapíšu dnešní progress do deníku.
+> Ještě jeden krok: ukážu ti, jak workspace udržuje sám sebe.
+
+### Krok 6: Přejmenuj mě — workspace si sám udrží metadata
+
+> Jmenuji se `agent-modul-1` — to je jen dočasný název pro tuto lekci. Teď víš, co dělám: jsem kronikář tvého workspace.
+>
+> Přejmenuj mě, ať si mě příště snadno najdeš:
+>
+> 1. Přepni do **Plan mode**
+> 2. Napiš: *Přejmenuj `1_Agents/agent-modul-1.md` na `1_Agents/agent-kronikar.md`. Aktualizuj cestu v `1_Agents/AGENT-REGISTRY.md` a v `workspace-mapa.md`.*
+> 3. Zkontroluj plán → **Agent mode** → proveď
+>
+> Až bude hotovo, zavolej mě příště jako `@1_Agents/agent-kronikar.md`.
+
+Po dokončení:
+
+> Hotovo. Workspace si právě sám udržel metadata — přejmenoval agenta a aktualizoval registr a mapu. Takhle to funguje pokaždé.
+>
+> Teď uzavři session: zavolej `@1_Agents/agent-pomocnik.md` a napiš **Uzavři session**.
 
 ---
 
 ## Stálá role — správce architektury
 
-Po Modulu 1 zůstávám aktivní pro tyto situace:
+Po Modulu 1 (jako `agent-kronikar.md`) zůstávám aktivní pro tyto situace:
 
 **Přidání nového agenta:**
 > Stačí říct: *"Přidal jsem agenta [název]. Pomož mi ho zapsat do registru."* Aktualizuji `AGENT-REGISTRY.md` a pokud je potřeba, i `workspace-mapa.md`.

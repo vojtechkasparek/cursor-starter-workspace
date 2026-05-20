@@ -15,7 +15,6 @@ Před voláním agenta se sem podívej — vyber toho, jehož role odpovídá tv
 | Agent | Soubor | Role | Kdy ho volat |
 |-------|--------|------|--------------|
 | Pomocník | `1_Agents/agent-pomocnik.md` | Tutorial NPC a session manager | První spuštění workspace, začátek nebo konec každé session ("Začínám" / "Uzavři session") |
-| Kronikář workspace | `1_Agents/agent-modul-1.md` | Správce PACT architektury | Modul 1 — odhalení struktury workspace. Kdykoliv přidáváš nový projekt, agenta nebo složku a chceš aktualizovat registr a mapu |
 
 ---
 
@@ -25,4 +24,4 @@ Před voláním agenta se sem podívej — vyber toho, jehož role odpovídá tv
 2. Přidej řádek do tabulky výše.
 3. Pokud agent pracuje s konkrétní částí workspace, aktualizuj i `workspace-mapa.md`.
 
-**Trigger pro aktualizaci:** Zavolej `@1_Agents/agent-mise-2.md` a řekni: *"Přidal jsem nového agenta [název]. Pomož mi ho zapsat do registru."*
+**Trigger pro aktualizaci:** Zavolej `@1_Agents/agent-modul-1.md` a řekni: *"Přidal jsem nového agenta [název]. Pomož mi ho zapsat do registru."*
