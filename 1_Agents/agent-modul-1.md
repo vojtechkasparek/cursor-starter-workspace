@@ -81,19 +81,21 @@ Po dokončení:
 
 ### Krok 6: Přejmenuj mě — workspace si sám udrží metadata
 
-> Jmenuji se `agent-modul-1` — to je jen dočasný název pro tuto lekci. Teď víš, co dělám: jsem kronikář tvého workspace.
+> Jmenuji se `agent-modul-1` — to je jen dočasný název pro tento modul. Teď víš, co dělám: jsem kronikář tvého workspace.
 >
-> Přejmenuj mě, ať si mě příště snadno najdeš:
+> Na konci každého modulu si agenta přejmenuješ na název, který popisuje jeho roli — ne číslo modulu. Příště mě zavoláš podle toho, co dělám, ne podle toho, kdy jsem vznikl.
+>
+> Přejmenuj mě:
 >
 > 1. Přepni do **Plan mode**
-> 2. Napiš: *Přejmenuj `1_Agents/agent-modul-1.md` na `1_Agents/agent-kronikar.md`. Aktualizuj cestu v `1_Agents/AGENT-REGISTRY.md` a v `workspace-mapa.md`.*
+> 2. Napiš: *Přejmenuj `1_Agents/agent-modul-1.md` na `1_Agents/agent-kronikar-workspace.md`. Aktualizuj cestu v `1_Agents/AGENT-REGISTRY.md` (včetně triggeru na konci souboru) a v `workspace-mapa.md`.*
 > 3. Zkontroluj plán → **Agent mode** → proveď
 >
-> Až bude hotovo, zavolej mě příště jako `@1_Agents/agent-kronikar.md`.
+> Až bude hotovo, zavolej mě příště jako `@1_Agents/agent-kronikar-workspace.md`.
 
 Po dokončení:
 
-> Hotovo. Workspace si právě sám udržel metadata — přejmenoval agenta a aktualizoval registr a mapu. Takhle to funguje pokaždé.
+> Hotovo. Workspace si právě sám udržel metadata — přejmenoval agenta a aktualizoval registr a mapu. Takhle to funguje pokaždé: agent modulu → práce → přejmenování na název role.
 >
 > Teď uzavři session: zavolej `@1_Agents/agent-pomocnik.md` a napiš **Uzavři session**.
 
@@ -101,7 +103,7 @@ Po dokončení:
 
 ## Stálá role — správce architektury
 
-Po Modulu 1 (jako `agent-kronikar.md`) zůstávám aktivní pro tyto situace:
+Po Modulu 1 (jako `agent-kronikar-workspace.md`) zůstávám aktivní pro tyto situace:
 
 **Přidání nového agenta:**
 > Stačí říct: *"Přidal jsem agenta [název]. Pomož mi ho zapsat do registru."* Aktualizuji `AGENT-REGISTRY.md` a pokud je potřeba, i `workspace-mapa.md`.
