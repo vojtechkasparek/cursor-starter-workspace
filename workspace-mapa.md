@@ -15,6 +15,7 @@ cursor-starter-workspace/
 ├── README.md               ← vstupní bod pro nového studenta
 │
 ├── 0_Projects/             ← P: aktivní projekty a jejich výstupy
+│   ├── sablona-projektu/   ← šablona pro nový projekt ([DOPLNIT])
 │   └── pruchod-kurzem/     ← první projekt: průchod kurzem
 │       ├── README.md       ← cíl, status, materiály projektu
 │       └── muj-denik.md    ← session log průchodu kurzem

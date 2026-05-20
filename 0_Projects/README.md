@@ -16,6 +16,12 @@ Na začátku bude složka skoro prázdná. To je v pořádku. Bude růst s tím,
 
 ---
 
+## Šablona nového projektu
+
+Pro nový projekt použij `0_Projects/sablona-projektu/README.md` — obsahuje `[DOPLNIT]` pole, která vyplníš s Cursorem (Plan → Agent).
+
+---
+
 ## Doporučený návyk
 
 Když agent vytvoří něco, co chceš zachovat, ulož výstup sem. Chat není spolehlivý archiv. Soubor ano.
