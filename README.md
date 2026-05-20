@@ -107,7 +107,7 @@ Setup máš za sebou. Workspace funguje, kontext je vyplněný, agenta znáš.
 
 Teď přichází první skutečný modul — a s ním nový průvodce.
 
-Otevři chat, otaguj `@1_Agents/agent-mise-2.md` a napiš:
+Otevři chat, otaguj `@1_Agents/agent-modul-1.md` a napiš:
 
 > `Začínám Modul 1.`
 

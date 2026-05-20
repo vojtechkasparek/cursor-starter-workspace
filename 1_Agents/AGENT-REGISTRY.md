@@ -15,7 +15,7 @@ Před voláním agenta se sem podívej — vyber toho, jehož role odpovídá tv
 | Agent | Soubor | Role | Kdy ho volat |
 |-------|--------|------|--------------|
 | Pomocník | `1_Agents/agent-pomocnik.md` | Tutorial NPC a session manager | První spuštění workspace, začátek nebo konec každé session ("Začínám" / "Uzavři session") |
-| Kronikář workspace | `1_Agents/agent-mise-2.md` | Správce PACT architektury | Mise 2 — odhalení struktury workspace. Kdykoliv přidáváš nový projekt, agenta nebo složku a chceš aktualizovat registr a mapu |
+| Kronikář workspace | `1_Agents/agent-modul-1.md` | Správce PACT architektury | Modul 1 — odhalení struktury workspace. Kdykoliv přidáváš nový projekt, agenta nebo složku a chceš aktualizovat registr a mapu |
 
 ---
 

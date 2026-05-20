@@ -85,7 +85,7 @@ Až bude `2_Context/` vyplněný, pojmenuj co student získal a předej ho dál:
 >
 > Setup je hotový. Tři úkoly za tebou — ovládání, obsah, kontext. Teď přichází první modul: budeš stavět workspace jako systém.
 >
-> Otaguj `@1_Agents/agent-mise-2.md` a napiš: **Začínám Modul 1.**
+> Otaguj `@1_Agents/agent-modul-1.md` a napiš: **Začínám Modul 1.**
 
 ---
 

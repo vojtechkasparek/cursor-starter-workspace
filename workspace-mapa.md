@@ -22,7 +22,7 @@ cursor-starter-workspace/
 ├── 1_Agents/               ← A: agenti — průvodci, specialisté, kronikáři
 │   ├── AGENT-REGISTRY.md   ← seznam všech agentů a kdy je volat
 │   ├── agent-pomocnik.md   ← první průvodce a NPC session manageru
-│   └── agent-mise-2.md     ← kronikář workspace a správce architektury
+│   └── agent-modul-1.md    ← kronikář workspace a správce architektury (Modul 1)
 │
 ├── 2_Context/              ← C: kontext — paměť workspace o uživateli
 │   ├── identity/
