@@ -32,7 +32,7 @@ Teď když umíš tagovat, tady je první mise.
 
 Otevři chat a postav zprávu takhle:
 
-- Napiš `@`, vyber **agenti/agent-pomocnik.md**
+- Napiš `@`, vyber **1_Agents/agent-pomocnik.md**
 - Mezerou přidej: `Přečti`
 - Napiš další `@`, vyber **materialy/ukazka-dokumentu.md**
 - Přidej: `a řekni mi, co je hlavní myšlenka.`
@@ -77,14 +77,14 @@ Cursor má tři módy a každý dělá něco jiného:
 
 Kaskáda, která to spojuje: **Plan → Agent**. Nejdřív plán, pak akce.
 
-V levém panelu najdeš připravenou složku `kontext/`. Je tam struktura a šablony čekající na vyplnění — čtyři soubory s placeholdery `[DOPLNIT]`. Tvůj úkol: naplnit je s pomocí Cursoru.
+V levém panelu najdeš připravenou složku `2_Context/`. Je tam struktura a šablony čekající na vyplnění — čtyři soubory s placeholdery `[DOPLNIT]`. Tvůj úkol: naplnit je s pomocí Cursoru.
 
 **Mise — část A: tone of voice**
 
 1. Přepni do **Plan mode** — přepínač vlevo dole v chatu.
 2. Otaguj tyto soubory a napiš instrukci:
 
-   Otaguj `@kontext/identity/jak-komunikuju.md` + `@materialy/muj-email.md` a napiš:
+   Otaguj `@2_Context/identity/jak-komunikuju.md` + `@materialy/muj-email.md` a napiš:
    *Na základě mého e-mailu vyplň šablonu jak-komunikuju.md — nahraď všechny [DOPLNIT] konkrétními poznatky z mého psaní.*
 
 3. Cursor ukáže plán — zkontroluj co chystá.
@@ -92,23 +92,24 @@ V levém panelu najdeš připravenou složku `kontext/`. Je tam struktura a šab
 
 **Mise — část B: kdo jsem**
 
-Po části A otaguj `@kontext/identity/o-mne.md` a napiš:
+Po části A otaguj `@2_Context/identity/o-mne.md` a napiš:
 *Přečti šablonu a polož mi 3–5 otázek, abych ji mohl vyplnit.*
 
 Cursor se zeptá. Ty odpovíš. Pak přepni do Agent mode a Cursor šablonu vyplní podle tvých odpovědí.
 
-Výsledek: složka `kontext/` s tvými reálnými daty. Příště stačí otagovat `@kontext/` a Cursor ví kdo jsi, jak komunikuješ a co řešíš — aniž bys to musel pokaždé vysvětlovat znovu.
+Výsledek: složka `2_Context/` s tvými reálnými daty. Příště stačí otagovat `@2_Context/` a Cursor ví kdo jsi, jak komunikuješ a co řešíš — aniž bys to musel pokaždé vysvětlovat znovu.
 
 ---
 
 ## Co je uvnitř
 
 - `.cursorrules` — základní pravidla pro Cursor v tomto workspace.
-- `agenti/` — ukázkový agent k prozkoumání. Později si postavíš vlastní.
-- `materialy/` — dokumenty pro první cvičení v kurzu.
-- `moje-projekty/` — sem ukládej vlastní výstupy.
-- `muj-denik.md` — zápisy z průchodu lekcemi a session handoff.
-- `nastroje/` — ukázkový nástroj a později tvoje vlastní nástroje.
+- `workspace-mapa.md` — mapa celého workspace: co kde je a proč.
+- `1_Agents/` — agenti: průvodci, kronikáři, specialisté. Jejich seznam najdeš v `1_Agents/AGENT-REGISTRY.md`.
+- `2_Context/` — tvoje paměť: kdo jsi, jak komunikuješ, jaké máš cíle.
+- `0_Projects/` — tvoje projekty a výstupy. Deník průchodu kurzem je v `0_Projects/pruchod-kurzem/`.
+- `3_Tools/` — nástroje a skripty pro opakované úkoly.
+- `materialy/` — ukázkové dokumenty pro cvičení v Lekci 0.
 
 ---
 

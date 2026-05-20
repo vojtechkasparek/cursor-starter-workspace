@@ -1,5 +1,22 @@
 # Cursor Starter Workspace — základní pravidla
 
+## Architektura workspace (PACT)
+
+Tento workspace používá PACT strukturu — čtyři zóny s pevnými rolemi:
+
+- **0_Projects/** — aktivní projekty a jejich výstupy
+- **1_Agents/** — agenti s instrukcemi (průvodci, specialisté, kronikáři)
+- **2_Context/** — paměť workspace: identita, styl komunikace, cíle uživatele
+- **3_Tools/** — nástroje pro opakované úkoly
+
+`materialy/` je pomocná složka mimo PACT — slouží pro cvičení v Lekci 0.
+
+## Orientace ve workspace
+
+- Při první orientaci přečti `@workspace-mapa.md` — obsahuje strukturu a logiku workspace.
+- Při hledání agenta zkontroluj `@1_Agents/AGENT-REGISTRY.md` — seznam všech agentů a jejich rolí.
+- Při práci s uživatelským kontextem čti ze `@2_Context/`.
+
 ## Jazyk a komunikace
 - Komunikuj vždy česky, pokud uživatel sám nepíše anglicky.
 - Tykej uživateli.
@@ -8,8 +25,8 @@
 ## Práce se soubory
 - Nikdy neměň strukturu souborů nebo složek bez explicitního souhlasu.
 - Šablony v `materialy/` jsou vzory — při práci s nimi zachovej jejich strukturu.
-- Výstupy ukládej do `moje-projekty/`, pokud není řečeno jinak.
-- Poznámky z průchodu kurzem zapisuj do `muj-denik.md`.
+- Výstupy ukládej do `0_Projects/`, pokud není řečeno jinak.
+- Poznámky z průchodu kurzem zapisuj do `0_Projects/pruchod-kurzem/muj-denik.md`.
 
 ## Styl výstupů
 - Výstupy formátuj v Markdownu.
