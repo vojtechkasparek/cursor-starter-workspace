@@ -101,17 +101,17 @@ Výsledek: složka `2_Context/` s tvými reálnými daty. Příště stačí ota
 
 ---
 
-## Co dál — Modul 1: Práce s Workspace
+## Co dál — celý kurz
 
 Setup máš za sebou. Workspace funguje, kontext je vyplněný, agenta znáš.
 
-Teď přichází první skutečný modul — a s ním nový průvodce.
+Tvůj kurz má 5 modulů. Celý plán najdeš v `0_Projects/pruchod-kurzem/kurz.md` — osnova ti řekne co se v každém modulu naučíš, co vytvoříš a jak poznáš, že jsi hotov.
 
-Otevři chat, otaguj `@1_Agents/agent-modul-1.md` a napiš:
+Otevři chat, otaguj `@0_Projects/pruchod-kurzem/kurz.md` a napiš:
 
 > `Začínám Modul 1.`
 
-Agent tě převezme a provede tím, co přijde dál.
+Pomocník přečte plán a pošle tě ke správnému agentovi.
 
 ---
 

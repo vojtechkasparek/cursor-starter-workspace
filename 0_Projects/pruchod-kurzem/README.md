@@ -30,7 +30,9 @@
 
 ## Příští krok
 
-- [ ] [DOPLNIT — konkrétní první akce]
+Otevři `kurz.md` v této složce — najdeš tam celou osnovu kurzu a kde v ní právě jsi.
+
+Nebo řekni Pomocníkovi "Začínám" a on to zjistí za tebe.
 
 ---
 
