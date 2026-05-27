@@ -17,6 +17,9 @@ Před voláním agenta se sem podívej — vyber toho, jehož role odpovídá tv
 | Pomocník | `1_Agents/agent-pomocnik.md` | Tutorial NPC a session manager | První spuštění workspace, začátek nebo konec každé session ("Začínám" / "Uzavři session") |
 | Kronikář workspace | `1_Agents/agent-kronikar-workspace.md` | Správce PACT architektury | Modul 1 — odhalení struktury workspace. Kdykoliv přidáváš nový projekt, agenta nebo složku a chceš aktualizovat registr a mapu |
 | Stavitel | `1_Agents/agent-modul-2.md` | Průvodce tvorbou agentů od identifikace případu po funkční soubor | Modul 2 — chceš postavit nového agenta. Trigger: *"Začínám Modul 2."* nebo *"Chci postavit agenta pro [X]."* |
+| Revizor | `1_Agents/agent-modul-3.md` | Průvodce záměrnou kontrolou: Plan mode, odmítnutí plánu, čtení diffu | Modul 3 — záměrná kontrola před každou větší změnou. Trigger: *"Začínám Modul 3."* nebo *"Projdi se mnou plán."* |
+| Systematik | `1_Agents/agent-modul-4.md` | Zaznamenávač vzorců — pravidla, workflow library, rozhodnutí pravidlo vs. agent | Modul 4 — systematizace opakovaných postupů. Trigger: *"Začínám Modul 4."* nebo *"Opakuji tuto instrukci: [instrukce]."* |
+| Stavitel nástrojů | `1_Agents/agent-modul-5.md` | Průvodce vibe codingem: od popisu výsledku po funkční HTML nástroj | Modul 5 — tvorba prvního nástroje. Trigger: *"Začínám Modul 5."* nebo *"Chci postavit nástroj pro [X]."* |
 
 ---
 

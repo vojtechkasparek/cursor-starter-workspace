@@ -1,29 +1,30 @@
 # O mně
 
 > Tento soubor je zdrojem pravdy o tom, kdo jsi. AI ho čte když potřebuje znát tvůj kontext.
+> Vyplněno v Misi 3 (Lekce 0) pomocí Plan → Agent kaskády.
 
 ---
 
 ## Základní info
 
-- **Jméno:** Vojta
-- **Role:** Učitel zeměpisu
-- **Obor / firma:** Základní škola / školství
-- **Město:** —
+- **Jméno:** [DOPLNIT]
+- **Role:** [DOPLNIT — tvoje pracovní pozice nebo jak se popisuješ]
+- **Obor / firma:** [DOPLNIT — obor nebo organizace]
+- **Město:** [DOPLNIT — nebo nech prázdné]
 
 ---
 
 ## Co dělám
 
-Jsem učitel zeměpisu a většina mé práce se točí kolem školy — přípravy na hodiny, testy, prezentace. Pomáhám kolegům využívat umělou inteligenci ve výuce a v přípravě. Momentálně se intenzivně učím pracovat s Cursorem jako hlavním nástrojem pro vlastní produktivitu i pro sdílení postupů s ostatními učiteli.
+[DOPLNIT — 2–3 věty. Co je hlavní náplní tvé práce? Na čem teď pracuješ nejvíc?]
 
 ---
 
 ## Pro koho pracuji
 
-- Žáci základní školy (výuka zeměpisu)
-- Kolegové učitelé (sdílení postupů a podpora při využití AI)
-- Sám sebe — zlepšování příprav, testů a prezentací
+- [DOPLNIT — např. žáci, klienti, tým, zákazníci]
+- [DOPLNIT]
+- [DOPLNIT — nebo smaž přebytečný řádek]
 
 ---
 
@@ -31,17 +32,16 @@ Jsem učitel zeměpisu a většina mé práce se točí kolem školy — přípr
 
 | Oblast | Úroveň |
 |--------|--------|
-| Výuka zeměpisu, přípravy, testy, prezentace | Expert |
-| AI ve vzdělávání (podpora učitelů) | Středně pokročilý |
-| Cursor | Začátečník (aktivně se učím) |
-| ChatGPT | Začátečník (používám spíš jako chytrý vyhledávač) |
+| [DOPLNIT — obor ve kterém jsi expert] | Expert |
+| [DOPLNIT — oblast kde se zlepšuješ] | Středně pokročilý |
+| AI a Cursor | Začátečník (aktivně se učím) |
 
-**Nástroje které používám:** Cursor, ChatGPT, nástroje pro přípravy hodin, testy a prezentace ve škole
+**Nástroje které používám:** [DOPLNIT — seznam nástrojů, např. Word, Gmail, Notion, ChatGPT]
 
 ---
 
 ## Hodnoty a principy
 
-- Kvalita — výsledky musí stát za to; nechci generický AI výstup, ale něco použitelného v praxi
-- Konkrétní přidaná hodnota — po každém žákovi i po práci s kolegy musí být vidět smysl a užitek
-- Smysluplnost před rychlostí — raději kvalitní příprava nebo materiál než „hotové za každou cenu“
+- [DOPLNIT — co je pro tebe v práci důležité?]
+- [DOPLNIT — co považuješ za kvalitní výstup?]
+- [DOPLNIT — co záměrně odmítáš dělat?]

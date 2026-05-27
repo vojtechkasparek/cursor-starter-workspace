@@ -8,9 +8,9 @@
 
 | Složka | Obsah |
 |--------|-------|
-| `identity/` | Kdo jsi — o-mne.md, jak-komunikuju.md |
-| `cile/` | Kam směřuješ — aktualni-cile.md |
-| `prace/` | Jak pracuješ — jak-pracuju.md |
+| `identity/` | Kdo jsi — `o-mne.md`, `jak-komunikuju.md` |
+| `cile/` | Kam směřuješ — `aktualni-cile.md` |
+| `prace/` | Jak pracuješ — `jak-pracuju.md` |
 
 ---
 
@@ -19,15 +19,15 @@
 Když chceš, aby agent znal tvůj kontext, otaguj příslušný soubor ve zprávě:
 
 ```
-@kontext/identity/o-mne.md
-@kontext/identity/jak-komunikuju.md
-@kontext/cile/aktualni-cile.md
+@2_Context/identity/o-mne.md
+@2_Context/identity/jak-komunikuju.md
+@2_Context/cile/aktualni-cile.md
 ```
 
 Nebo odkaz na celou složku, pokud chceš předat vše najednou:
 
 ```
-@kontext/
+@2_Context/
 ```
 
 ---

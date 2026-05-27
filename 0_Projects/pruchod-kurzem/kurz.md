@@ -41,26 +41,35 @@ Každý modul má jednoho průvodce (agenta), jednu věc, kterou vytvoříš, a 
 
 - **Co se naučíš:** Plan mode jako pojistka před každou změnou workspace. Jak záměrně odmítnout nebo upravit plán agenta. Jak číst diff a co v něm hledat.
 - **Co vytvoříš:** Reálnou úpravu existujícího dokumentu provedenou přes Plan → odmítnutí/úprava → schválení → Agent
-- **Agent:** *(bude přidán při tvorbě Modulu 3)*
+- **Agent:** `@1_Agents/agent-modul-3.md` → *"Začínám Modul 3."*
 - **Důkaz dokončení:** Máš v deníku záznam o záměrném odmítnutí plánu a jeho úpravě
 
 ---
 
 ## Modul 4 — Naučíš ho jednou, pamatuje si navždy
 
-- **Co se naučíš:** `.cursorrules` — pravidla platná pro celý workspace. Workflow library jako recept sešit osvědčených postupů.
-- **Co vytvoříš:** Aspoň 3 vlastní pravidla v `.cursorrules` + jedno zapsané workflow v `3_Tools/` nebo dedikovaném souboru
-- **Agent:** *(bude přidán při tvorbě Modulu 4)*
-- **Důkaz dokončení:** Agent dodržuje tvoje pravidla bez opakování v každém promptu
+- **Co se naučíš:** `.cursorrules` — pravidla platná pro celý workspace. Workflow library jako recept sešit osvědčených postupů. Kdy z workflow udělat agenta.
+- **Co vytvoříš:** Aspoň 3 vlastní pravidla v `.cursorrules` + jedno zapsané workflow v `3_Tools/workflow-library.md`
+- **Agent:** `@1_Agents/agent-modul-4.md` → *"Začínám Modul 4."*
+- **Důkaz dokončení:** Agent dodržuje tvoje pravidla bez opakování v každém promptu + workflow library obsahuje jeden funkční záznam
 
 ---
 
 ## Modul 5 — Tvůj první nástroj
 
-- **Co se naučíš:** Vibe coding — popis výsledku místo psaní kódu. Celý cyklus: zadání → plán → realizace → test → úprava.
-- **Co vytvoříš:** Funkční HTML nástroj nebo skript pro reálný případ z tvé práce
-- **Agent:** *(bude přidán při tvorbě Modulu 5)*
+- **Co se naučíš:** Vibe coding — popis výsledku místo psaní kódu. Celý cyklus: zadání → plán → realizace → test → úprava → README.
+- **Co vytvoříš:** Funkční HTML nástroj v `3_Tools/[nazev-nastroje]/` s README pro předání
+- **Agent:** `@1_Agents/agent-modul-5.md` → *"Začínám Modul 5."*
 - **Důkaz dokončení:** Nástroj funguje a jiný člověk ho umí použít podle README
+
+---
+
+## Závěrečný projekt
+
+- **Co uděláš:** Vezmeš reálnou situaci ze svého života nebo práce — a postavíš pro ni řešení v Cursoru (workflow, agenta nebo nástroj).
+- **Žádný návod.** Tento projekt je důkazem, že jsi přenesl dovednosti z kurzu do reálného kontextu.
+- **Podklady:** `0_Projects/zaverecny-projekt/README.md` — zadání, kritéria a příklady scénářů
+- **Důkaz dokončení:** Funkční workflow nebo nástroj + krátký zápis "co fungovalo, co jsem se naučil" v `0_Projects/zaverecny-projekt/denik-projektu.md`
 
 ---
 

@@ -16,14 +16,24 @@ cursor-starter-workspace/
 │
 ├── 0_Projects/             ← P: aktivní projekty a jejich výstupy
 │   ├── sablona-projektu/   ← šablona pro nový projekt ([DOPLNIT])
-│   └── pruchod-kurzem/     ← první projekt: průchod kurzem
-│       ├── README.md       ← cíl, status, materiály projektu
-│       └── muj-denik.md    ← session log průchodu kurzem
+│   ├── pruchod-kurzem/     ← první projekt: průchod kurzem
+│   │   ├── README.md       ← cíl, status, materiály projektu
+│   │   ├── kurz.md         ← mapa celého kurzu (agenti čtou pro navigaci)
+│   │   └── muj-denik.md    ← session log průchodu kurzem
+│   └── zaverecny-projekt/  ← závěrečný projekt studenta (Modul 5+)
+│       ├── README.md       ← zadání, kritéria, příklady scénářů
+│       ├── denik-projektu.md ← deník průchodu závěrečným projektem
+│       └── vystupy/        ← sem student ukládá výstupy projektu
 │
 ├── 1_Agents/               ← A: agenti — průvodci, specialisté, kronikáři
 │   ├── AGENT-REGISTRY.md   ← seznam všech agentů a kdy je volat
-│   └── agent-pomocnik.md   ← první průvodce a NPC session manageru
-│       (... další agenti se registrují průběžně)
+│   ├── agent-pomocnik.md   ← session manager a tutorial NPC
+│   ├── agent-kronikar-workspace.md ← správce PACT architektury (Modul 1)
+│   ├── agent-modul-2.md    ← Stavitel — průvodce tvorbou agentů (Modul 2)
+│   ├── agent-modul-3.md    ← Revizor — průvodce záměrnou kontrolou (Modul 3)
+│   ├── agent-modul-4.md    ← Systematik — průvodce systematizací (Modul 4)
+│   └── agent-modul-5.md    ← Stavitel nástrojů — průvodce vibe codingem (Modul 5)
+│       (... další agenti se přidávají průběžně a přejmenovávají na roli)
 │
 ├── 2_Context/              ← C: kontext — paměť workspace o uživateli
 │   ├── identity/
@@ -35,12 +45,16 @@ cursor-starter-workspace/
 │       └── jak-pracuju.md  ← pracovní styl, nástroje, rutiny
 │
 ├── 3_Tools/                ← T: nástroje — skripty a opakované utility
-│   └── priklad-nastroje/   ← ukázkový HTML nástroj
+│   ├── priklad-nastroje/   ← ukázkový HTML nástroj (prohlédnout v Modulu 4)
+│   │   ├── index.html      ← spustitelný nástroj v prohlížeči
+│   │   └── README.md       ← jak nástroj použít
+│   └── workflow-library.md ← zápisy fungujících postupů (Modul 4+)
 │
-└── materialy/              ← pomocná složka pro cvičení (mimo PACT)
+└── materialy/              ← pomocná složka pro cvičení v Lekci 0 (mimo PACT)
     ├── ukazka-dokumentu.md
     ├── ukazka-hodnoceni.md
-    └── ukazka-sablony.md
+    ├── ukazka-sablony.md
+    └── sablona-zpravy.md   ← vícesekcový dokument pro cvičení diffu (Modul 3)
 ```
 
 ---
@@ -52,7 +66,7 @@ cursor-starter-workspace/
 | **P** — Projects | `0_Projects/` | Kde žijí projekty a jejich výstupy. Každý projekt = vlastní podsložka s README. |
 | **A** — Agents | `1_Agents/` | Průvodci, specialisté, kronikáři. Každý agent = `.md` soubor s instrukcemi. |
 | **C** — Context | `2_Context/` | Paměť workspace: kdo jsi, jak komunikuješ, co chceš. Agenti ho čtou pro personalizaci. |
-| **T** — Tools | `3_Tools/` | Nástroje pro opakované úkoly — skripty, HTML nástroje, šablony. |
+| **T** — Tools | `3_Tools/` | Nástroje pro opakované úkoly — skripty, HTML nástroje, workflow library. |
 
 ---
 
@@ -72,3 +86,4 @@ Při orientaci ve workspace přečti tyto soubory:
 - Nový agent → nový `.md` soubor v `1_Agents/` + záznam v `AGENT-REGISTRY.md`
 - Nový kontext → nový soubor v příslušné podsložce `2_Context/`
 - Nový nástroj → nová podsložka v `3_Tools/` s `README.md`
+- Workflow zápis → přidat do `3_Tools/workflow-library.md`
