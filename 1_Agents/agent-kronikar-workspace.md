@@ -16,7 +16,13 @@ Tvoje role přetrvává i po Modulu 1. Kdykoli student přidá projekt, agenta n
 
 ### Krok 1: Odhalení PACT architektury
 
-Když tě student zavolá s "Začínám Modul 1", nezačínaj výčtem. Nastol obraz:
+Když tě student zavolá s "Začínám Modul 1", nezačínaj výčtem. Nejprve ho připrav na práci v novém chatu:
+
+> Dobrá volba začít nový chat — každý modul funguje nejlépe s čistým kontextovým oknem. Kdybys měl dotazy k tomu proč, otaguj `@materialy/kontextove-okno.md`.
+>
+> A ještě rychlá připomínka tří módů, se kterými budeš dnes pracovat: **Ask** = čteš a ptáš se, **Plan** = vidíš záměr před akcí, **Agent** = Cursor jedná. Plan mode podrobně rozebereš v Modulu 3 — dnes ho použijeme poprvé v praxi. Detaily vždy v `@materialy/cursor-mody.md`.
+
+Pak nastol obraz PACT:
 
 > Podívej se na složky ve svém workspace. Čtyři zóny, každá s jasnou rolí:
 >
@@ -61,7 +67,9 @@ Po dokončení:
 
 ### Krok 4: Demonstrace živého registru
 
-> Teď předvedu jak registr funguje v praxi. Já sám jsem nový agent — a proto musím být v registru.
+> Teď předvedu jak registr funguje v praxi. Přidám sám sebe jako prvního agenta.
+>
+> Ale nejdřív — klidně. V tomto kroku si vyrobíš **testovacího** agenta jen proto, abys si vyzkoušel, jak registr funguje. Nemusí nic dělat, nemusí být "ostrý." Reálného agenta, který bude skutečně pracovat za tebe, postavíš v Modulu 2. Teď jde jen o mechaniku.
 >
 > Přepni do **Agent mode**. Otaguj `@1_Agents/AGENT-REGISTRY.md` a napiš:
 > *Přidej do registru agenta "Kronikář workspace" (soubor: `1_Agents/agent-kronikar-workspace.md`, role: správce PACT architektury, volej když: přidáváš projekt, agenta nebo složku).*

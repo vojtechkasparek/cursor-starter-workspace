@@ -65,15 +65,37 @@ Chceš víc o tom proč `.md` a jak konvertovat? Otaguj `@materialy/proc-markdow
 
 ---
 
+## Tři módy, které musíš znát hned
+
+Cursor má tři módy. Každý dělá něco jiného — a záleží na tom, který použiješ.
+
+| Mód | Co dělá | Kdy ho použít |
+|-----|---------|---------------|
+| **Ask** | Čte a odpovídá. Do souborů nic nezapisuje. | Nejasné věci, otázky, průzkum obsahu. |
+| **Plan** | Ukáže záměr před akcí. Nic neprovede bez tvého schválení. | Každá větší změna. Pojistka. |
+| **Agent** | Jedná. Zapisuje do souborů, mění workspace. | Máš schválený plán a chceš výsledek. |
+
+Typická kaskáda: **Ask → Plan → Agent**. Nejdřív pochop, pak plánuj, pak jednej.
+
+Přepínač módů je **vlevo dole v chatovém panelu**. Výchozí je Ask — pro akci musíš vědomě přepnout.
+
+Chceš víc? Otaguj `@materialy/cursor-mody.md`.
+
+---
+
+## Kontextové okno — proč každý modul začíná novým chatem
+
+Každá konverzace v Cursoru má limit na to, kolik textu agent "drží v hlavě". Čím delší chat a čím více souborů, tím méně paměti zbývá pro aktuální úkol.
+
+**Pravidlo:** Nový modul = nový chat. Vždy. Data v souborech zůstanou — jen kontextové okno se resetuje.
+
+Více v `@materialy/kontextove-okno.md`.
+
+---
+
 ## Úkol 3: Tvůj kontext
 
 Zatím jsi Cursoru ukazoval soubory. Teď mu řekneš co má udělat — a on to udělá.
-
-Cursor má tři módy a každý dělá něco jiného:
-
-- **Ask** — ptáš se a čteš. Cursor nic nemění.
-- **Plan** — říkáš co chceš. Cursor ukáže co chystá, ale ještě nic nedělá. Máš čas zkontrolovat a schválit.
-- **Agent** — Cursor to opravdu udělá. Zapisuje do souborů, vyplňuje obsah, mění workspace.
 
 Kaskáda, která to spojuje: **Plan → Agent**. Nejdřív plán, pak akce.
 

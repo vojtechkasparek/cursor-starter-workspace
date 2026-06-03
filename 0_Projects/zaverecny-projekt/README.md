@@ -6,7 +6,9 @@
 
 ## Zadání
 
-**Vezmi reálnou situaci ze svého života nebo práce, kde ti teď AI nepomáhá nebo pomáhá nedostatečně. Postav pro ni řešení v Cursoru.**
+**Modul 5 byl řízený — postavil jsi Cursor manifest podle předepsané struktury. Tady jsou volné ruce.**
+
+Vezmi reálnou situaci ze svého života nebo práce, kde ti teď AI nepomáhá nebo pomáhá nedostatečně. Postav pro ni řešení v Cursoru.
 
 Výsledek může být:
 - Agent, který opakující se úkol dělá za tebe
@@ -44,7 +46,7 @@ Nejsou to návody — jsou to inspirace. Tvůj projekt bude jiný.
 
 1. Napiš jednu větu: *"Reálná situace, kde mi teď AI nepomáhá, je..."*
 2. Zavolej Stavitele nástrojů nebo Stavitele a popište jim situaci:
-   - Pro agenta: `@1_Agents/agent-modul-2.md Chci postavit agenta pro [situace].`
+   - Pro agenta: `@1_Agents/agent-tvurce-agentu.md Chci postavit agenta pro [situace].`
    - Pro nástroj: `@1_Agents/agent-modul-5.md Chci postavit nástroj pro [situace].`
 3. Nebo začni sám — agenty volej jen když se zasekneš.
 

@@ -29,7 +29,7 @@ cursor-starter-workspace/
 │   ├── AGENT-REGISTRY.md   ← seznam všech agentů a kdy je volat
 │   ├── agent-pomocnik.md   ← session manager a tutorial NPC
 │   ├── agent-kronikar-workspace.md ← správce PACT architektury (Modul 1)
-│   ├── agent-modul-2.md    ← Stavitel — průvodce tvorbou agentů (Modul 2)
+│   ├── agent-tvurce-agentu.md ← Tvůrce agentů — průvodce tvorbou agentů, OHIO filtr (Modul 2)
 │   ├── agent-modul-3.md    ← Revizor — průvodce záměrnou kontrolou (Modul 3)
 │   ├── agent-modul-4.md    ← Systematik — průvodce systematizací (Modul 4)
 │   └── agent-modul-5.md    ← Stavitel nástrojů — průvodce vibe codingem (Modul 5)
@@ -48,13 +48,23 @@ cursor-starter-workspace/
 │   ├── priklad-nastroje/   ← ukázkový HTML nástroj (prohlédnout v Modulu 4)
 │   │   ├── index.html      ← spustitelný nástroj v prohlížeči
 │   │   └── README.md       ← jak nástroj použít
+│   ├── muj-cursor-manifest/ ← osobní Cursor manifest (vytváří se v Modulu 5)
+│   │   ├── index.html      ← manifest stránka (otevřít v prohlížeči)
+│   │   └── README.md       ← jak manifest otevřít a aktualizovat
 │   └── workflow-library.md ← zápisy fungujících postupů (Modul 4+)
 │
-└── materialy/              ← pomocná složka pro cvičení v Lekci 0 (mimo PACT)
+└── materialy/              ← cvičební dokumenty + teoretické podklady (mimo PACT)
+    ├── cursor-mody.md          ← referenční přehled Ask / Plan / Agent módů
+    ├── kontextove-okno.md      ← co je kontextové okno, proč fresh chat per modul
+    ├── ohio-framework.md       ← filtr pro rozhodnutí "má tohle smysl agentovat?"
+    ├── cursor-modely-a-kredity.md ← přehled modelů, tokeny, kredity, kdy přepínat
+    ├── human-in-the-loop.md    ← princip AI navrhuje / člověk rozhoduje + cvičební dokument Modulu 3
+    ├── proc-markdown.md        ← proč .md soubory pro AI éru
+    ├── Můj email.md            ← sem student vloží svůj e-mail (tone of voice analýza)
     ├── ukazka-dokumentu.md
     ├── ukazka-hodnoceni.md
     ├── ukazka-sablony.md
-    └── sablona-zpravy.md   ← vícesekcový dokument pro cvičení diffu (Modul 3)
+    └── sablona-zpravy.md   ← vícesekcový dokument pro cvičení diffu
 ```
 
 ---
