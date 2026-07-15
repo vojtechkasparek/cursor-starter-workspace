@@ -23,7 +23,7 @@ Krátké reference — přečti si je, když tě agent na ně odkáže, nebo kdy
 
 Používají se pro konkrétní cvičení v průběhu kurzem.
 
-- `Můj email.md` — Sem vložíš svůj reálný e-mail. Agent z něj načte tvůj komunikační styl.
+- `muj-email.md` — Sem vložíš svůj reálný e-mail. Agent z něj načte tvůj komunikační styl.
 - `ukazka-dokumentu.md` — Dokument pro první otázky v Ask mode (Modul 1 a Setup).
 - `ukazka-hodnoceni.md` — Vzor stylu pro pozdější práci s textem.
 - `ukazka-sablony.md` — Dokument s pevnou strukturou pro práci v Plan mode.

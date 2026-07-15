@@ -60,7 +60,7 @@ cursor-starter-workspace/
     ├── cursor-modely-a-kredity.md ← přehled modelů, tokeny, kredity, kdy přepínat
     ├── human-in-the-loop.md    ← princip AI navrhuje / člověk rozhoduje + cvičební dokument Modulu 3
     ├── proc-markdown.md        ← proč .md soubory pro AI éru
-    ├── Můj email.md            ← sem student vloží svůj e-mail (tone of voice analýza)
+    ├── muj-email.md            ← sem student vloží svůj e-mail (tone of voice analýza)
     ├── ukazka-dokumentu.md
     ├── ukazka-hodnoceni.md
     ├── ukazka-sablony.md
